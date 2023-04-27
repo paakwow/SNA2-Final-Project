@@ -2,7 +2,7 @@
 
 ## Dataset
 
-Dataset: Dataset containing top Github organizations and their contributors
+Dataset containing top Github organizations and their contributors
 
 ## Research Question
 
