@@ -2,7 +2,7 @@
 
 ## Dataset
 
-Dataset: Dataset containing top Github organizations and their contributors << [organization.csv](https://github.com/paakwow/SNA2-Final-Project/files/11345463/organization.csv)>>
+Dataset: Dataset containing top Github organizations and their contributors
 
 ## Research Question
 
