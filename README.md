@@ -1,6 +1,3 @@
-# SNA2 Final Project
-
-## Purpose:
 # SNA2 Final Presentation - Github Organizations
 
 ## Dataset
