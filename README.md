@@ -10,7 +10,7 @@ Research Question: What is the connectedness of members within and between Githu
 
 ## Hypothesis
 
-Hypothesis: The more actively and diversely members collaborate and contribute to open-source projects, and the more they are connected to larger networks of developers and organizations, the higher their level of connectedness within and between Github organizations.
+Hypothesis: The more actively and diversely members collaborate and contribute to open-source projects, and the more they are connected to larger networks of developers and organizations, the higher their level of connectedness within and between Github organizations
 
 ## Purpose
 
