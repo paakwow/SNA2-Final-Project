@@ -20,3 +20,7 @@ The code is meant for social network analysis, graph building and analysis. This
 
 
 To access the dataset we used in our analysis, please refer to the [organization.csv](./dataset.csv) file in this repository.
+
+## Google Colab File
+
+[Open in Google Colab](https://colab.research.google.com/drive/1f98N4uOiujUZCdva2csIGMDu6-2-skF_?authuser=4#scrollTo=CzAkbuekdRQt)
