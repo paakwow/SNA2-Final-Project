@@ -23,4 +23,4 @@ To access the dataset we used in our analysis, please refer to the [organization
 
 ## Google Colab File
 Our Colab file is linked below
-[Open in Google Colab](https://colab.research.google.com/drive/1f98N4uOiujUZCdva2csIGMDu6-2-skF_?authuser=4#scrollTo=CzAkbuekdRQt)
+[Open in Google Colab](https://colab.research.google.com/drive/1f98N4uOiujUZCdva2csIGMDu6-2-skF_?usp=sharing)
